@@ -10,7 +10,9 @@
 <code>
 <img height="64" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg">
 <img height="64" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
+<img height="64" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
 <img height="64" src="https://www.vectorlogo.zone/logos/python/python-icon.svg">
+<img height="64" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
 <img height="64" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 <img height="64" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">
 <img height="64" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
