@@ -1,12 +1,11 @@
-# Hello World! 👋
+## 👋 Hello World! 👋
 
-✨ My name is **Yunus Emre EKE**, I am a computer engineer from Turkey. <br>
+✨ My name is **Yunus Emre EKE**, I am a computer engineer from Turkey. ✨
 
-![yemreeke GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=yemreeke&theme=vue-dark&show_icons=true)  
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemreeke&layout=compact&hide=html,css" alt="ETop Langs" />  
+<img width=450 src="https://github-readme-stats.vercel.app/api?username=yemreeke&theme=vue-dark&show_icons=true"/>
+<img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemreeke&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21"  />  
 
 ## 📚 Learning
-
 <code>
 <img height="64" src="https://www.vectorlogo.zone/logos/swift/swift-icon.svg">
 <img height="64" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
@@ -20,3 +19,6 @@
 <img height="64" src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg">
 <img height="64" src="https://cdn.cdnlogo.com/logos/c/27/c.svg">
 </code>
+
+## Summary of my life
+<img height=400 src="https://media.giphy.com/media/VBH1sIJSPtnS5dy3f5/giphy.gif">
