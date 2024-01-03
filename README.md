@@ -58,3 +58,6 @@
 <div align="center">
   <img height="200" width="320" src="https://github-readme-stats.vercel.app/api/?username=yemreeke&show_icons=true&theme=dracula&include_all_commits=true" />
 </div>
+<div align="center">
+  <img height="40" width="200" src="https://komarev.com/ghpvc/?username=yemreeke&color=FF5106" />
+</div>
