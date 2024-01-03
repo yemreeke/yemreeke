@@ -5,8 +5,12 @@
 <img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemreeke&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&langs_count=6"/>  
 
 
+<div align="right">
+  <img align="right" alt="Coding" width="400" src="./coding.gif"/>
+</div>
+
 ## 💻 Technology Stack
-<div style="display:flex;">
+<div  align="left">
 <a href="#"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
@@ -26,6 +30,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
 </div>
+
 
 ## 🌐 My Accounts
 <div style="display:flex;">
