@@ -40,6 +40,12 @@
 <a href="https://apps.apple.com/us/developer/yunus-emre-eke/id1713998736" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a>
 <a href="https://play.google.com/store/apps/developer?id=Yunus+Emre+EKE" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yemreeke/yemreeke/blob/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/yemreeke/yemreeke/blob/output/snake.svg" />
+  <img alt="github-snake" src="https://github.com/yemreeke/yemreeke/blob/output/snake.svg" />
+</picture>
+
 
 ## Summary of my life
 <img height=400 src="https://media.giphy.com/media/VBH1sIJSPtnS5dy3f5/giphy.gif">
