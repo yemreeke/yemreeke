@@ -38,3 +38,4 @@
 
 ## Summary of my life
 <img height=400 src="https://media.giphy.com/media/VBH1sIJSPtnS5dy3f5/giphy.gif">
+<a href="http://example.com/" target="_blank">Hello, world!</a>
