@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre EKE</h1>
 <h2 align="center">I am a React Native Full Stack Developer from Turkey.</h2>
 
-<img width=450 src="https://github-readme-stats.vercel.app/api/?username=yemreeke&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=1d1f21&include_all_commits=true"/>
-<img width=450 src="https://github-readme-stats.vercel.app/api/top-langs/?username=yemreeke&layout=compact&hide=html,css&title_color=ffffff&text_color=c9cacc&bg_color=1d1f21&langs_count=6"/>  
 
 
 <div align="right">
@@ -49,3 +47,14 @@
 
 ## Summary of my life
 <img height=400 src="https://media.giphy.com/media/VBH1sIJSPtnS5dy3f5/giphy.gif">
+
+## Stats
+<div align="center">
+  <img  height="200" width="320" src="https://streak-stats.demolab.com?user=yemreeke&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
+</div>
+<div align="center">
+  <img height="200" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemreeke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" />
+</div>
+<div align="center">
+  <img height="200" width="320" src="https://github-readme-stats.vercel.app/api/?username=yemreeke&show_icons=true&theme=dracula&include_all_commits=true" />
+</div>
