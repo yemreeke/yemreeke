@@ -48,15 +48,15 @@
 ## Summary of my life
 <img height=400 src="https://media.giphy.com/media/VBH1sIJSPtnS5dy3f5/giphy.gif">
 
-## Stats
+## 📊 GitHub Stats
 <div align="center">
-  <img  height="200" width="320" src="https://streak-stats.demolab.com?user=yemreeke&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
+  <img width="400" src="https://streak-stats.demolab.com?user=yemreeke&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
 </div>
 <div align="center">
-  <img height="200" width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemreeke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemreeke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" />
 </div>
 <div align="center">
-  <img height="200" width="320" src="https://github-readme-stats.vercel.app/api/?username=yemreeke&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/?username=yemreeke&show_icons=true&theme=dracula&include_all_commits=true" />
 </div>
 <div align="center">
   <img height="40" width="200" src="https://komarev.com/ghpvc/?username=yemreeke&color=FF5106" />
