@@ -45,12 +45,10 @@
 </picture>
 
 
-## Summary of my life
-<img height=400 src="https://media.giphy.com/media/VBH1sIJSPtnS5dy3f5/giphy.gif">
-
 ## 📊 GitHub Stats
+
 <div align="center">
-  <img width="400" src="https://streak-stats.demolab.com?user=yemreeke&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
+  <img  width="400" src="https://streak-stats.demolab.com?user=yemreeke&theme=dracula&date_format=n%2Fj%5B%2FY%5D&hide_border=false" alt="GitHub Streak" />
 </div>
 <div align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=yemreeke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" />
