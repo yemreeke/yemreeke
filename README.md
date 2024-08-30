@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yunus Emre EKE</h1>
-<h2 align="center">I am a React Native Full Stack Developer from Turkey.</h2>
+<h2 align="center">I am a Full Stack Developer (React Native & NodeJS) from Turkey.</h2>
 
 
 
